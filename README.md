@@ -18,6 +18,7 @@ unrar x images.rar data/images/
 # Or use 7-Zip if unrar is not available
 7z x images.rar -odata/images/
 ```
+or download images of fashionpedia from huggingface
 
 Then install dependencies:
 
